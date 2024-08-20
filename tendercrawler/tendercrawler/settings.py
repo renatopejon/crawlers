@@ -19,13 +19,6 @@ NEWSPIDER_MODULE = "tendercrawler.spiders"
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "tendercrawler (+http://www.yourdomain.com)"
 
-# Zyte config
-# ZYTE_API_KEY = "888437268cdc477d86b8fff8e776882a"
-# ZYTE_API_TRANSPARENT_MODE = True
-# ADDONS = {
-#     "scrapy_zyte_api.Addon": 500,
-# }
-
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
 
